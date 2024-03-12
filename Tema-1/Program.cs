@@ -29,5 +29,6 @@ void BitParBid()
 
 void RCR()
 {
-
+    RCR rCR = new RCR();
+    rCR.Run();
 }
